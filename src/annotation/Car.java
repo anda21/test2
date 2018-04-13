@@ -17,7 +17,4 @@ public class Car {
 	public void setDoors(int doors) {
 		this.doors = doors;
 	}
-
-   
-
 }
